@@ -1,4 +1,4 @@
-# First try on git.
+# First try on git
 
 I use Ubuntu 20.04 LTS
 
