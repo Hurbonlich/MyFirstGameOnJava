@@ -34,6 +34,7 @@ git branch -M main
 git push -u origin main
 
 
+Now I update README.md with github
 
 
 HOW TO RUN : 
