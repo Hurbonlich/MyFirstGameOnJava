@@ -52,11 +52,11 @@ git push -u origin main
 You need to have Java on your machine.
 
 
--Clone the repository : ```git clone https://github.com/Hurbonlich/MyFirstGameOnJava.git```
+#### -Clone the repository : ```git clone https://github.com/Hurbonlich/MyFirstGameOnJava.git```
 
 or download ZIP.
 
--Open a terminal in the folder.
+#### -Open a terminal in the folder.
 
 First creat classe : ```javac MyFirstGameOnJava.java```
 
