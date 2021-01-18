@@ -2,10 +2,12 @@
 
 I use Ubuntu 20.04 LTS
 
-## table of content :
+## table of content
 - [New Repo](#new-repo)
 - [Next Step](#next-step)
 - [HOW TO RUN](#how-to-run)
+  - [Dependencie](#dependencie)
+
 
 
 ### New repo
@@ -55,7 +57,7 @@ git push -u origin main
 
 
 # HOW TO RUN
-#### Dependencie : 
+#### Dependencie 
 You need to have Java on your machine.
 
 
