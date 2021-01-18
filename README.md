@@ -46,10 +46,10 @@ git push -u origin main
 ### Now I update README.md with github
 
 
+
+# HOW TO RUN : 
 #### Dependencie : 
 You need to have Java on your machine.
-# HOW TO RUN : 
-
 
 
 -Clone the repository : ```git clone https://github.com/Hurbonlich/MyFirstGameOnJava.git```
