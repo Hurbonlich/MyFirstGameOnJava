@@ -1,8 +1,8 @@
-First try on git to creat a repo and import by terminal.
+# First try on git to creat a repo and import by terminal.
 
 I use Ubuntu 20.04 LTS
 
-To make that I use this following command : 
+## To make that I use this following command : 
 
 git init
 
@@ -21,7 +21,7 @@ git remote add origin https://github.com/Hurbonlich/MyFirstGameOnJava.git
 git push -u origin main 
 
 
-Next step : 
+### Next step : 
 
 I push an existing repository from the command line to update README.md
 
@@ -34,12 +34,12 @@ git branch -M main
 git push -u origin main
 
 
-Now I update README.md with github
+### Now I update README.md with github
 
 
-HOW TO RUN : 
+# HOW TO RUN : 
 
-Dependencie : 
+## Dependencie : 
 You need to have Java on your machine.
 
 -Clone the repository : git clone https://github.com/Hurbonlich/MyFirstGameOnJava.git
