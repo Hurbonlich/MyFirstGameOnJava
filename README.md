@@ -5,7 +5,7 @@ I use Ubuntu 20.04 LTS
 ## table of content :
 - [New Repo](#new-repo)
 - [Next Step](#next-step)
-- [How to run](#how-to-run)
+- [HOW TO RUN](#how-to-run)
 
 
 ### New repo
