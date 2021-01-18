@@ -2,7 +2,14 @@
 
 I use Ubuntu 20.04 LTS
 
-## To make that I use this following command : 
+## table of content :
+- [New Repo](#new-repo)
+- [Next Step](#next-step)
+- [How to run](#how-to-run)
+
+
+### New repo
+To make that I use this following command : 
 ```
 git init
 ```
