@@ -1,4 +1,4 @@
-# First try on git to creat a repo and import by terminal.
+# First try on git.
 
 I use Ubuntu 20.04 LTS
 
