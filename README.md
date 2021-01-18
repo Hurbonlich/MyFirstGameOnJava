@@ -35,7 +35,7 @@ git remote add origin https://github.com/Hurbonlich/MyFirstGameOnJava.git
 git push -u origin main 
 ```
 
-### Next step : 
+### Next step 
 
 I push an existing repository from the command line to update README.md
 
@@ -54,7 +54,7 @@ git push -u origin main
 
 
 
-# HOW TO RUN : 
+# HOW TO RUN
 #### Dependencie : 
 You need to have Java on your machine.
 
