@@ -21,11 +21,6 @@ GPU: Intel UHD Graphics 630
 
 RAM: 7800MiB 
 
-
-# HOW TO RUN
-#### Dependencie 
-You need to have Java (JVM) on your machine.
-
 # HOW TO RUN
 #### Dependencie 
 You need to have Java (JVM) on your machine.
