@@ -1,5 +1,12 @@
 # My first game on java
 
+
+## table of content
+
+- [HOW TO RUN](#how-to-run)
+  - [Dependencie](#dependencie)
+
+
 My config :
 
 OS: Ubuntu 20.04.1 LTS x86_64
@@ -13,11 +20,6 @@ GPU: NVIDIA GeForce GTX 1050 Mobile
 GPU: Intel UHD Graphics 630 
 
 RAM: 7800MiB 
-
-## table of content
-
-- [HOW TO RUN](#how-to-run)
-  - [Dependencie](#dependencie)
 
 
 # HOW TO RUN
